@@ -23,6 +23,7 @@ namespace PrismDemo
         public MainWindow()
         {
             InitializeComponent();
+			int i = 9;
         }
     }
 }
